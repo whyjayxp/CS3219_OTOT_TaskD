@@ -1,0 +1,24 @@
+{
+  "name": "cs3219_taskd",
+  "version": "1.0.0",
+  "description": "Submission for CS3219 OTOT Assignment Task D",
+  "main": "publisher.js",
+  "scripts": {
+    "publisher": "node publisher.js",
+    "subscriber": "node subscriber.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whyjayxp/CS3219_OTOT_TaskD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whyjayxp/CS3219_OTOT_TaskD/issues"
+  },
+  "homepage": "https://github.com/whyjayxp/CS3219_OTOT_TaskD#readme",
+  "dependencies": {
+    "kafka-node": "^5.0.0"
+  }
+}
